@@ -1,0 +1,5 @@
+name: PersonalMines
+version: '${project.version}'
+main: me.saif.personalmines.PersonalMines
+api-version: 1.17
+depend: [WorldEdit]
