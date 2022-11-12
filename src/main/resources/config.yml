@@ -1,9 +1,9 @@
 sql:
   remote-database: true
-  host: '136.243.156.134'
+  host: 'localhost'
   port: 3306
-  user: 'saif'
-  database: 'saif'
-  password: 'DkZqBVWG86E3RrdN'
+  user: 'root'
+  database: 'database'
+  password: 'password'
 mines-world-name: mines
 region-size: 200
